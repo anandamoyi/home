@@ -55,7 +55,7 @@ const about = {
   imageSize: 375,
   message:
     "My name is Anandamoyi Saha. I’m an undergraduate student in my 4th year at McGill University. I am studying for a Bachelor's degree in Computer Engineering. I'm most passionate about learning new technologies and my goal is to use computer engineering to solve real world problems.",
-  resume: "https://docs.google.com/document/d/1HqhjAlXd-D6S2Q4ZVu39z4jzpex51TfEbxCMIsVMdTo/edit",
+  resume: "https://docs.google.com/document/d/1HqhjAlXd-D6S2Q4ZVu39z4jzpex51TfEbxCMIsVMdTo/edit?usp=sharing",
 };
 
 // PROJECTS SECTION

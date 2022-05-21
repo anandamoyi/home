@@ -25,7 +25,7 @@ const mainBody = {
    // },
     {
       image: "fa-linkedin",
-      url: "https://www.linkedin.com/in/anandamoyi-saha-092528221/",
+      url: "https://ca.linkedin.com/in/anandamoyi-saha-092528221",
     },
     //{
       //image: "fa-twitter",

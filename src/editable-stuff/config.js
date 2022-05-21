@@ -67,8 +67,8 @@ const repos = {
   show: true,
   heading: "My Projects",
   gitHubUsername: "anandamoyi", //i.e."johnDoe12Gh"
-  reposLength: 4,
-  specificRepos: [],
+  reposLength: 0,
+  specificRepos: ["project-group-15","eventregistration","Shopify-2021-intern-challenge"],
   
 };
 
